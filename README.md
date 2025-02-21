@@ -1,82 +1,83 @@
-# Analyse du Marché Immobilier - Département de l'Ain
+# 🏡 Analyse du Marché Immobilier - Département de l'Ain
 
-La Direction Départementale des Territoires (DDT) de l'Ain vous a recruté en tant que Data Analyst pour créer un tableau de bord interactif destiné aux collectivités locales et aux professionnels de l'immobilier. Ce tableau de bord servira à mieux comprendre les dynamiques du marché immobilier local et à orienter les politiques d'aménagement du territoire.
+## 💡 Contexte
 
-La DDT dispose d'une base de données exhaustive des transactions immobilières (données DVF - Demandes de Valeurs Foncières) couvrant les trois dernières années. Ces données comprennent :
+Le marché immobilier est un enjeu majeur pour les collectivités locales et les professionnels du secteur. La Direction Départementale des Territoires (DDT) de l'Ain a fait appel à une analyse approfondie des transactions immobilières issues des Données de Valeurs Foncières (DVF) pour comprendre les dynamiques du marché et orienter les politiques publiques.
 
-* Informations sur la transaction
-  - Identifiant unique
-  - Date de mutation
-  - Nature de la mutation
-  - Valeur foncière (prix de vente)
+## 🎯 Objectif
 
-* Localisation précise du bien
-  - Adresse complète (numéro, type de voie, nom de voie)
-  - Code postal
-  - Commune
-  - Code département
-  - Références cadastrales (section, numéro de plan)
-
-* Caractéristiques du bien
-  - Type de local (appartement, maison, dépendance)
-  - Surface réelle bâtie
-  - Nombre de pièces principales
-  - Surface Carrez (pour les copropriétés)
-  - Nature et surface du terrain
-  - Nombre de lots
-
-Votre mission est de créer un tableau de bord interactif complet qui permettra aux utilisateurs d'analyser :
-
-* L'évolution des prix
-  - Prix moyen par commune
-  - Prix au m² par type de bien
-  - Tendances temporelles des transactions
-
-* La typologie des biens
-  - Répartition par type de local
-  - Distribution des surfaces
-  - Analyse des terrains non bâtis
-
-* Les dynamiques territoriales
-  - Nombre de transactions par commune
-  - Cartographie des prix
-  - Identification des zones de tension
-
-Le tableau de bord devra répondre à des questions stratégiques telles que :
+Concevoir un tableau de bord interactif permettant d'explorer et de visualiser les tendances du marché immobilier dans l'Ain afin de répondre à des questions stratégiques :
 
 * Quelles sont les communes les plus dynamiques en termes de transactions ?
+
 * Comment évoluent les prix selon les typologies de biens ?
-* Existe-t-il des disparités significatives entre les différents secteurs du département ?
+
+* Quelles sont les disparités entre les différents secteurs du département ?
+
 * Quel est le profil type des biens vendus par commune ?
+
 * Quelles sont les tendances du marché des terrains non bâtis ?
 
-En complément du tableau de bord, vous devrez produire :
+## 🔬 Données Utilisées
 
-1. Une méthodologie détaillée de traitement des données
-   - Nettoyage des valeurs aberrantes
-   - Harmonisation des types de biens
-   - Traitement des données cadastrales
+Les données DVF couvrant les trois dernières années comprennent :
 
-2. Une analyse approfondie incluant
-   - Les tendances majeures du marché
-   - Les spécificités territoriales identifiées
-   - Les recommandations pour les politiques locales de l'habitat
+* Informations sur la transaction : date, nature, valeur foncière
 
-3. Un guide d'utilisation destiné aux utilisateurs finaux
-   - Présentation des différentes fonctionnalités
-   - Exemples de cas d'usage
-   - Précautions d'interprétation
+* Localisation : adresse, code postal, commune, cadastre
 
-Ce projet permettra aux acteurs locaux de :
-- Mieux comprendre les dynamiques du marché immobilier local
-- Adapter les politiques d'urbanisme aux réalités du territoire
-- Anticiper les évolutions du marché
-- Identifier les zones nécessitant une attention particulière
+* Caractéristiques du bien : type de local (maison, appartement...), surface, nombre de pièces, terrain
 
-Points d'attention particuliers :
-- La qualité variable des données cadastrales
-- La nécessité de croiser les données avec d'autres sources (PLU, zonages...)
-- L'importance de la dimension temporelle dans l'analyse
-- La confidentialité des données individuelles
+## 🔄 Méthodologie
 
-Votre analyse devra être accessible aux non-spécialistes tout en conservant la rigueur nécessaire à la prise de décision.
+1. Préparation des données
+
+    * Nettoyage des valeurs aberrantes
+
+    * Gestion des valeurs manquantes (imputation, suppression...)
+
+    * Harmonisation des types de biens et des surfaces
+    
+2. Exploration et Analyse
+
+    * Distribution des prix et surfaces
+
+    * Corrélations entre typologies et prix
+
+    * Identification des zones de tension
+
+3. Visualisation et Tableau de Bord
+
+    * Cartographie des prix au m² par commune
+
+    * Graphiques dynamiques sur l'évolution des prix
+
+    * Analyse des typologies et des tendances du marché
+
+**Technologies Utilisées : Python (Pandas, Matplotlib, Seaborn), Power BI, QGIS**
+
+## 🎉 Résultats et Insights
+
+  * Tendances et dynamiques territoriales : identifier les zones attractives avec forte activité immobilière
+
+  * Mise en évidence des disparités territoriales
+
+  * Segmentation des biens vendus selon leurs caractéristiques et leur valorisation
+
+## 💼 Livrables
+
+  * Un tableau de bord interactif pour l'analyse des tendances
+
+  * Une méthodologie de traitement des données
+
+  * Un guide utilisateur pour faciliter l'interprétation des données
+
+## 🚀 Impact et Perspectives
+
+Ce projet permet aux acteurs locaux de :
+
+  * Mieux comprendre le marché immobilier de l'Ain
+
+  * Adapter les politiques d'urbanisme et d'aménagement
+
+  * Anticiper les évolutions du marché et identifier les opportunités d'investissement
