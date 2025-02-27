@@ -54,7 +54,7 @@ Les données DVF couvrant les trois dernières années comprennent :
 
     * Analyse des typologies et des tendances du marché
 
-**Technologies Utilisées : Python (Pandas, Matplotlib, Seaborn), Power BI, QGIS**
+**Technologies Utilisées : Python (Pandas, Matplotlib, Seaborn), Power BI**
 
 ## 🎉 Résultats et Insights
 
