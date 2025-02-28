@@ -59,11 +59,11 @@ Les données DVF couvrant les trois dernières années comprennent :
 
 ## 🎉 Résultats et Insights <br>
 
-[Analyse des prix](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/Analyse%20des%20prix.PNG)<br>
+![Analyse des prix](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/Analyse%20des%20prix.PNG)<br>
 
-[Types de biens](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/Types%20de%20biens.PNG)<br>
+![Types de biens](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/Types%20de%20biens.PNG)<br>
 
-[Zones en tension](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/zones%20en%20tensions%20%26%20terrains%20non%20b%C3%A2tis.PNG)<br>
+![Zones en tension](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/zones%20en%20tensions%20%26%20terrains%20non%20b%C3%A2tis.PNG)<br>
 
 ## 💼 Livrables
 
