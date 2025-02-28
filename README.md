@@ -36,7 +36,7 @@ Les données DVF couvrant les trois dernières années comprennent :
 
     * Gestion des valeurs manquantes (imputation, suppression...)
 
-    * Harmonisation des types de biens et des surfaces
+    * Harmonisation des types de biens et des surfaces <br>
 [Notebook préparation des données](https://drive.google.com/file/d/1DEgut-4meybhNhMBWM-q6ipD7vb7Kc7k/view?usp=sharing)
     
 2. Exploration et Analyse
@@ -47,7 +47,7 @@ Les données DVF couvrant les trois dernières années comprennent :
 
     * Identification des zones de tension
 
-3. Visualisation et Tableau de Bord
+3. Visualisation et Tableau de Bord<br>
 [Dashboard](https://drive.google.com/file/d/1mO7Mi959hcJWGvjGfeQMJmpxh3z0YIDu/view?usp=sharing)
 
     * Cartographie des prix au m² par commune
@@ -60,11 +60,11 @@ Les données DVF couvrant les trois dernières années comprennent :
 
 ## 🎉 Résultats et Insights <br>
 
-[Analyse des prix]()<br>
+[Analyse des prix](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/Analyse%20des%20prix.PNG)<br>
 
-[Types de biens]()<br>
+[Types de biens](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/Types%20de%20biens.PNG)<br>
 
-[Zones en tension]()<br>
+[Zones en tension](https://github.com/Diaure/Immobilier-AIN/blob/main/03_Images/zones%20en%20tensions%20%26%20terrains%20non%20b%C3%A2tis.PNG)<br>
 
 ## 💼 Livrables
 
