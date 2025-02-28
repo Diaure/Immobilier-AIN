@@ -30,15 +30,14 @@ Les données DVF couvrant les trois dernières années comprennent :
 
 ## 🔄 Méthodologie
 
-1. Préparation des données
-
+1. Préparation des données<br>
+[Notebook préparation des données](https://drive.google.com/file/d/1DEgut-4meybhNhMBWM-q6ipD7vb7Kc7k/view?usp=sharing)
     * Nettoyage des valeurs aberrantes
 
     * Gestion des valeurs manquantes (imputation, suppression...)
 
     * Harmonisation des types de biens et des surfaces <br>
-[Notebook préparation des données](https://drive.google.com/file/d/1DEgut-4meybhNhMBWM-q6ipD7vb7Kc7k/view?usp=sharing)
-    
+
 2. Exploration et Analyse
 
     * Distribution des prix et surfaces
