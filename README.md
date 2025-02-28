@@ -37,6 +37,7 @@ Les données DVF couvrant les trois dernières années comprennent :
     * Gestion des valeurs manquantes (imputation, suppression...)
 
     * Harmonisation des types de biens et des surfaces
+[Notebook préparation des données](https://drive.google.com/file/d/1DEgut-4meybhNhMBWM-q6ipD7vb7Kc7k/view?usp=sharing)
     
 2. Exploration et Analyse
 
@@ -47,6 +48,7 @@ Les données DVF couvrant les trois dernières années comprennent :
     * Identification des zones de tension
 
 3. Visualisation et Tableau de Bord
+[Dashboard](https://drive.google.com/file/d/1mO7Mi959hcJWGvjGfeQMJmpxh3z0YIDu/view?usp=sharing)
 
     * Cartographie des prix au m² par commune
 
@@ -56,13 +58,13 @@ Les données DVF couvrant les trois dernières années comprennent :
 
 **Technologies Utilisées : Python (Pandas, Matplotlib, Seaborn), Power BI**
 
-## 🎉 Résultats et Insights
+## 🎉 Résultats et Insights <br>
 
-  * Tendances et dynamiques territoriales : identifier les zones attractives avec forte activité immobilière
+[Analyse des prix]()<br>
 
-  * Mise en évidence des disparités territoriales
+[Types de biens]()<br>
 
-  * Segmentation des biens vendus selon leurs caractéristiques et leur valorisation
+[Zones en tension]()<br>
 
 ## 💼 Livrables
 
